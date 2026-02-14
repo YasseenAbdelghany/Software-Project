@@ -47,20 +47,33 @@ Students scan a personal QR code, deposit recyclables, and earn points based on 
 
 ## Documentation in this repo
 
-These files describe the project requirements, architecture, diagrams, and validation plan:
+### Core Documentation
+- [BinWise documentation Final.pdf](BinWise%20documentation%20Final.pdf) — Complete system documentation
+- [Design Report.pdf](Design%20Report.pdf) — Detailed design specifications
+- [RVM Report.pdf](RVM%20Report.pdf) — Main project report
+- [TestReport.pdf](TestReport.pdf) — Testing and validation plan
 
-- [Design Report.pdf](Design%20Report.pdf)
-- [RVMProposal.pdf](RVMProposal.pdf)
-- [TestReport.pdf](TestReport.pdf)
-- [Level1 arc finall.pdf](Level1%20arc%20finall.pdf)
-- [ClasssDiagram.excalidrawadel final.pdf](ClasssDiagram.excalidrawadel%20final.pdf)
-- [Recyle vending machine.pptx](Recyle%20vending%20machine.pptx)
-- [RVM_Survey_Report.pdf](RVM_Survey_Report.pdf)
-- [RVM_Survey_Presentation.pptx](RVM_Survey_Presentation.pptx)
-- [ahm-ethicfinal321.pdf](ahm-ethicfinal321.pdf)
+### Proposals & Research
+- [RVM-Proposal.pdf](RVM-Proposal.pdf) — Initial project proposal
+- [RVM_Research_Paper.pdf](RVM_Research_Paper.pdf) — Research findings
 
-Optional (generated for easier searching in VS Code):
-- [docs_extracted/ALL_EXTRACTED_TEXT.md](docs_extracted/ALL_EXTRACTED_TEXT.md)
+### Architecture & Design Diagrams
+- [Context Diagram(Level0).png](Context%20Diagram(Level0).png) — System context diagram
+- [Level1-Architecture.pdf](Level1-Architecture.pdf) — Level 1 architecture
+- [ArchLevel 3.pdf](ArchLevel%203.pdf) — Level 3 detailed architecture
+- [UseCase Diagram.png](UseCase%20Diagram.png) — Use case diagram
+- [SEQUANCE-Diagrams.zip](SEQUANCE-Diagrams.zip) — Sequence diagrams (zipped)
+
+### Use Case & Estimation
+- [RVM System — Use Case Estimation .pdf](RVM%20System%20%E2%80%94%20Use%20Case%20Estimation%20.pdf) — Use case estimation
+
+### Survey & Presentations
+- [RVM_Survey_Report.pdf](RVM_Survey_Report.pdf) — User survey analysis
+- [RVM_Survey_Presentation.pptx](RVM_Survey_Presentation.pptx) — Survey presentation
+- [Recyle vending Designs.pptx](Recyle%20vending%20Designs.pptx) — Design presentation
+
+### Ethics
+- [Ethics Report-Smart Reverse Vending Machine.pdf](Ethics%20Report-Smart%20Reverse%20Vending%20Machine.pdf) — Ethics considerations
 
 ---
 
